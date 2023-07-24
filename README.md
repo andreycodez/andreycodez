@@ -25,3 +25,5 @@ My name is Andrey, and I am pasionate about coding most of all!
 - [HTML&CSS&JS](https://github.com/andreycodez/ui-layout-web-front-sassapp-landingpage)
 - [JS&API](https://github.com/andreycodez/portfolio-web-api-js)
 - [ReactJS](https://github.com/andreycodez/react-debt-free-calc)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreycodez)](https://github.com/anuraghazra/github-readme-stats)
